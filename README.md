@@ -8,7 +8,7 @@ This was the first project I made at Florida Memory. This is a simple research t
 --CSS<br/>
 
 <b>Takeaways:</b><br/> 
-The images were digitized into 32 seperate volumes based on the date written and loaded onto our server. This resulted in over 30,000 images. The most difficult part of this project was determining how to present these without loading thousands of images at once. I ended up creating an image slider that loads a new set of images on arrow click.
+The images were digitized into 32 seperate volumes based on the date written, and then loaded onto our server resulting in in over 30,000 images. The most difficult part of this project was determining how to present these without loading thousands of images at once. I ended up creating an image slider that loads a new set of images on arrow click.
 
 <b>Current status:</b><br/> 
 The project is complete and is live in the State Archives reference room.
