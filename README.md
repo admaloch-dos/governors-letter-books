@@ -20,5 +20,5 @@ This application is not part of the Florida Memory website or hosted on the same
 This is hosted locally on desktop computers and is not optimized for smaller screen sizes.
 
 <b>Note:</b><br/>
-The files on our server often fail so the images may not always load properly.
+This project has had issues as there is an extremely high failure rate for files loaded from our servers.
 
